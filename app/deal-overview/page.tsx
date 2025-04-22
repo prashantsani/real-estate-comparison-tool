@@ -1,4 +1,4 @@
-import dealData from '../data/dealData.ts';
+import dealData from '../data/dealData.json';
 import PropertySnapshot from '../components/deal/PropertySnapshot';
 import DealSummary from '../components/deal/DealSummary';
 import InsightsSection from '../components/deal/InsightsSection';
