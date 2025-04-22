@@ -8,8 +8,7 @@ import {
   NavigationMenuLink,
   NavigationMenuList,
   navigationMenuTriggerStyle
-} from "@/components/ui/navigation-menu"
-import Link from "next/link";
+} from "@/components/ui/navigation-menu";
 
 
 export default function Header() {
