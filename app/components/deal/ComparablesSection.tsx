@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
+import { Card } from "@/components/ui/card";
 
 interface ComparablesSectionProps {
   supplyPipeline: Array<{
